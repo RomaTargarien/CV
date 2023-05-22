@@ -22,6 +22,16 @@ best practices related to SDLC and Agile methods to raise the level of automatio
 * In my work I communicate with client, analyze user stories, identify and resolve gaps in business requirements
 * I utilize modern design methodologies including object-oriented design and design patterns
 
+## 📖 Education
+* Chemistry Faculty 2017-2022
+* Programming
+   * **2020** - decided to learn programming. Choosed Java as the main language.
+   * Java Courses in <a href = 'https://www.it-academy.by/'>IT-Academy</a>. Successfully completed сourse with final mark 9 
+   * **2021** - decided to dive deep into Android
+   * Android Courses in <a href = 'https://www.it-academy.by/'>IT-Academy</a>
+   * Successfully completed the <a href='https://ventionteams.com/'>ITechArt-Group</a> traineeship with an offer
+ 
+
 ## 📋 Experience
 * 2021-2022 <a href='https://ventionteams.com/'>ITechArt-Group</a>
 
